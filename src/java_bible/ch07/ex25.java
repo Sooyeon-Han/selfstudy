@@ -26,6 +26,7 @@ class HTMLParser implements Parseable{
 		System.out.println(fileName + " - HTML parsing completed.");
 	}
 }
+
 public class ex25 {
 	public static void main(String[] args) {
 		Parseable parser = ParserManager.getParser("XML");
