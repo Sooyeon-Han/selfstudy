@@ -63,6 +63,7 @@ class InstallException extends Exception{
 
 class SpaceException extends Exception{
 	SpaceException(String msg){
+		
 		super(msg);
 	}
 }
