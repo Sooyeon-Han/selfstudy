@@ -1,6 +1,12 @@
 package java_bible.ch09;
 
-
+class Value{
+	int value;
+	
+	Value(int value){
+		this.value = value;
+	}
+}
 public class ex01 {
 	public static void main(String[] args) {
 		Value v1 = new Value(10);
@@ -17,13 +23,5 @@ public class ex01 {
 			System.out.println("v1과 v2는 같습니다");
 		else
 			System.out.println("v1과 v2는 다릅니다");
-	}
-	
-	class Value{
-		int value;
-		
-		Value(int value){
-			this.value = value;
-		}
 	}
 }
