@@ -10,7 +10,6 @@ public class ex21 {
 		out.println("i = "+i);
 		out.println("-i = "+(-i));
 		
-		
 		try {
 			out.printf("negateExact(%d) = %d%n", 10, negateExact(10));
 			out.printf("negateExact(%d) = %d%n", -10, negateExact(10));
