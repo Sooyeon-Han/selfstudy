@@ -5,7 +5,6 @@ public class ex19 {
 		StringBuffer sb = new StringBuffer("01");
 		StringBuffer sb2 = sb.append(23);
 		sb.append('4').append(56);
-		
 		StringBuffer sb3 = sb.append(78);
 		sb3.append(9.0);
 		
