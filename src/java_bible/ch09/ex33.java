@@ -17,6 +17,7 @@ public class ex33 {
 					System.out.print(data[i]+",");
 			}
 			
+			
 			System.out.println();
 		}
 	}
