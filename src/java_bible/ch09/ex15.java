@@ -12,6 +12,7 @@ public class ex15 {
 		System.out.println("UTF-8 : " + joinByteArr(bArr));
 		System.out.println("CP949 : " + joinByteArr(bArr2));
 
+		
 		System.out.println("UTF-8 : "+new String(bArr,"UTF-8"));
 		System.out.println("CP949 : "+new String(bArr2,"CP949"));
 		
