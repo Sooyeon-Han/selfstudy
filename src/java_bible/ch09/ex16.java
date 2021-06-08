@@ -5,7 +5,6 @@ public class ex16 {
 		int iVal = 100;
 		String strVal = String.valueOf(iVal);
 		
-		
 		double dVal = 200.0;
 		String strVal2 = dVal + "";
 		
