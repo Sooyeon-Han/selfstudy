@@ -5,8 +5,6 @@ import static java.lang.System.*;
 
 public class ex20 {
 	public static void main(String[] args) {
-		
-
 		double val = 90.7552;
 		out.println("round("+val+")="+round(val));
 		
