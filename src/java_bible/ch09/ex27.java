@@ -13,6 +13,5 @@ public class ex27 {
 		System.out.println("= rand2 =");
 		for(int i=0; i<5; i++)
 			System.out.println(i + ":" + rand2.nextInt());
-		
 	}
 }
