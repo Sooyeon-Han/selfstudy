@@ -2,8 +2,7 @@ package java_bible.ch09;
 
 public class ex25 {
 	public static void main(String[] args) {
-		int i = 10;
-		
+		int i = 10;		
 		//기본형을 참조형으로 형변환(형변환 생략 가능)
 		Integer intg = (Integer)i;	//Integer intg = Integer.valueOf(i);
 		Object obj = (Object)i;		//Object obj = (Object)Integer.valueOf(i);
