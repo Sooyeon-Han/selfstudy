@@ -3,6 +3,7 @@ import java.util.*;
 
 public class ex27 {
 	public static void main(String[] args) {
+		
 		Random rand = new Random(1);
 		Random rand2 = new Random(1);
 		
