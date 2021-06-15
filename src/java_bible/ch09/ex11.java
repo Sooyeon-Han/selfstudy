@@ -2,8 +2,6 @@ package java_bible.ch09;
 
 public class ex11 {
 	public static void main(String[] args) {
-		
-		
 		String str1 = "abc";
 		String str2 = "abc";
 		
