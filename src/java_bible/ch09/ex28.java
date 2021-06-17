@@ -4,6 +4,7 @@ import java.util.*;
 
 public class ex28 {
 	public static void main(String[] args) {
+		
 		Random rand = new Random();
 		int [] number = new int[100];
 		int [] counter = new int[10];
