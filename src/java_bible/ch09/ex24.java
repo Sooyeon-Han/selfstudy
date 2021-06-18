@@ -2,6 +2,7 @@ package java_bible.ch09;
 
 public class ex24 {
 	public static void main(String[] args) {
+		
 		int i = new Integer("100").intValue();
 		int i2 = Integer.parseInt("100");
 		Integer i3 = Integer.valueOf("100");
