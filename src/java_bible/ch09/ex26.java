@@ -10,9 +10,11 @@ public class ex26 {
 		
 		System.out.print("str2D = {");
 		
+		
 		for(String [] tmp : str2D)
 			System.out.print(Arrays.toString(tmp));
 		System.out.print("}");
+		
 		
 		System.out.println("equals(str2D, str2D_2) = )"+Objects.equals(str2D, str2D_2));
 		System.out.println("deepEquals(str2D, str2D_2) = )"+Objects.deepEquals(str2D, str2D_2));
