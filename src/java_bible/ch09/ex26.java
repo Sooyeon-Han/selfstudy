@@ -15,7 +15,6 @@ public class ex26 {
 			System.out.print(Arrays.toString(tmp));
 		System.out.print("}");
 		
-		
 		System.out.println("equals(str2D, str2D_2) = )"+Objects.equals(str2D, str2D_2));
 		System.out.println("deepEquals(str2D, str2D_2) = )"+Objects.deepEquals(str2D, str2D_2));
 		System.out.println("isNull(null) = " + isNull(null));
