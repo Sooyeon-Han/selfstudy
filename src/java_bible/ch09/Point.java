@@ -13,13 +13,13 @@ public class Point implements Cloneable {
 		return  "x="+x+", y="+y;
 	}
 	
-	public Object clone() {
-		Object obj = null;
-		try {
-			obj = super.clone();	//clone()은 반드시 예외처리를 해주어야한다
-		} catch (CloneNotSupportedException e) {
-			// TODO: handle exception
-			return obj;
-		}
-	}
+//	public Object clone() {
+//		Object obj = null;
+//		try {
+//			obj = super.clone();	//clone()은 반드시 예외처리를 해주어야한다
+//		} catch (CloneNotSupportedException e) {
+//			// TODO: handle exception
+//			return obj;
+//		}
+//	}
 }
