@@ -2,6 +2,7 @@ package java_bible.ch09;
 
 public class ex16 {
 	public static void main(String[] args) {
+		
 		int iVal = 100;
 		String strVal = String.valueOf(iVal);
 		
