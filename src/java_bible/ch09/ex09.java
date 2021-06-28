@@ -2,6 +2,7 @@ package java_bible.ch09;
 
 public class ex09 {
 	public static void main(String[] args) {
+		
 		Circle c1 = new Circle(new Point(1,1), 2.0);
 		Circle c2 = c1.shallowCopy();
 		Circle c3 = c1.deepCopy();
