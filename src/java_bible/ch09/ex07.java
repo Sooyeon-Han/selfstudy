@@ -1,7 +1,5 @@
 package java_bible.ch09;
 
-
-
 public class ex07 {
 	public static void main(String[] args) {
 		Point original = new Point(3,5);
