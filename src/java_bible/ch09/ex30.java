@@ -19,6 +19,7 @@ public class ex30 {
 		}
 	}
 	
+	
 	public static String getRandArr(String [] arr) {
 		return arr [getRand(arr.length)];
 	}
