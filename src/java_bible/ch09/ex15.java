@@ -5,7 +5,6 @@ import java.util.StringJoiner;
 public class ex15 {
 	public static void main(String[] args) throws Exception{
 		String str = "가";
-
 		byte[] bArr = str.getBytes("UTF-8");
 		byte[] bArr2 = str.getBytes("CP949");
 		
