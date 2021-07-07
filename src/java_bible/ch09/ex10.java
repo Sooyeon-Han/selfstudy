@@ -1,6 +1,7 @@
 package java_bible.ch09;
 
 public class ex10 {
+	
 	public static void main(String[] args) {
 		Card c = new Card("HEART", 3);
 		//Card c2 = Card.class.newInstance();	//Class 객체를 통해 객체를 생성
