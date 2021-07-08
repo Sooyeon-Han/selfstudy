@@ -28,5 +28,6 @@ public class ex28 {
 			bar[i] = ch;
 		
 		return new String(bar);
+		
 	}
 }
