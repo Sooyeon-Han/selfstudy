@@ -2,6 +2,7 @@ package java_bible.ch09;
 
 public class ex17 {
 	public static void main(String[] args) {
+		
 		String fullName = "Hello.java";
 		
 		int index = fullName.indexOf('.');
