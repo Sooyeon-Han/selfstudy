@@ -1,7 +1,6 @@
 package java_bible.ch09;
 
 public class ex30 {
-	
 	final static int RECORD_NUM = 10;	//생성할 레코드의 수를 정한다
 	final static String TABLE_NAME = "TEST_TABLE";
 	final static String [] Code1 = {"010","011","017","018","019"};
