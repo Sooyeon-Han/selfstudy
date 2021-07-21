@@ -1,7 +1,6 @@
 package java_bible.ch09;
 
 public class ex23 {
-	
 	public static void main(String[] args) {
 		Integer i = new Integer(100);
 		Integer i2 = new Integer(100);
