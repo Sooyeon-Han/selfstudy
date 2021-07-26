@@ -1,7 +1,6 @@
 package java_bible.ch09;
 
 public class Point implements Cloneable {
-	
 	int x, y;
 	
 	Point(int x, int y){
