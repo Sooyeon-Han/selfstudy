@@ -2,7 +2,7 @@ var http = require('http');
 var fs = require('fs');
 var url = require('url');
 
-function templateHTML(title, list){
+function templateHTML(title, list) {
   return `
   <!doctype html>
   <html>
@@ -19,7 +19,7 @@ function templateHTML(title, list){
   `;
 }
 
-function templateList(filelist){
+function templateList(filelist) {
   var list = '<ul>';
   var i = 0;
 
